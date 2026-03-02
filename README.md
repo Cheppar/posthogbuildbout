@@ -42,7 +42,7 @@ Support **Egerdrive** and **Ma3Pay** to test their product with the community.
 Provide product feedback as we prepare to launch into market.
 
 #### Posthog Meetup/Build Night
-Support a tech community event
+Support a tech community event or skillup session. Understand provisions of having a meal, merchandise and coupons from partners if neccessary.
 
 #### Zanzalu
 Get feedback from our builder participants on registration progress to attend Zanzalu, 
