@@ -34,8 +34,13 @@ Tools required: solder, protptype boards,  pi zero 2w and pico w2
 Filling an industrial design with KIPI (Kenya intellecctual Property Institute)
 
 #### AI sustainable future
+A research project on supporting an AI sustainable future, by establishing a platform for community members to earn carbon credits in future.
+We have partnered with seedballs Kenya for steady grass and tree seed supply, and create awareness and preliminary ground work.
+Project site was identified and mapped using GIS, an initial reconnaissance Reconnaissance was completed.
+Seeking to involve a community of charcoal burners, tech enthusiasts and 
 Together with my builder group to join a builder group in team building while reforesting a piece of land. 
 This activity is meant to support an AI sustainable future. Logistics and snacks needs planning.
+
 
 #### Prototype testing
 Support **Egerdrive** and **Ma3Pay** to test their product with the community.
