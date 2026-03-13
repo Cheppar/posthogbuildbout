@@ -1,9 +1,9 @@
 # Build Bout
 - After series of four hackathons, to identify and execute a needs assesment for rural builder cclubs/groups.
 - We are seeking support for our builder group through hosting a series of activities and events.
-- Consultated with my builder community, to plan our schedule for the next two months.
+- Consulted with my builder community, to plan our schedule for the next two months.
 - Drafted a plan with tentative dates for clarity and prior resource allocation.
-- Builders are seeking to attend [Zanzalu](https://www.zanzalu.org/), in August to showcase and interact with builders
+- Builders are seeking to attend [Zanzalu](https://www.zanzalu.org/), in August to showcase and interact with builders beyond our borders.
 
   
 ### Schedule 
